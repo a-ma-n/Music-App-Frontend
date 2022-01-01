@@ -1,0 +1,14 @@
+body {
+  background: black;
+  text-align: center;
+}
+
+* {
+  color: white; /*text color*/
+}
+
+a,
+a:hover {    /*color of links */
+  color: white;
+  text-decoration: none;
+}
